@@ -6,7 +6,7 @@
     text-decoration-style: wavy;
     text-decoration-thickness: 9px;
 
-    text-shadow: -40px -30px  ;
+    text-shadow: -40px -30px 20px green;
 }
 
 p{
